@@ -1,0 +1,52 @@
+.customBox {
+    width: 80%;
+    height: 80%;
+    top: 10%;
+    position: absolute;
+    left: 10%;
+    border-radius: 25px;
+    border: 2px solid white;
+}
+
+
+.photo{
+    width: 15%;
+    padding: 3%;
+}
+
+
+
+  
+
+
+  .home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px dashed #0d6efd;
+    cursor: pointer;
+    width: 15%;
+    padding: 3%;
+    margin: auto;
+    border-radius: 50%;
+    position: relative;
+    margin-bottom: 10%;
+  }
+  
+  .home img{
+    position: absolute;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 50%;
+    margin: 100%;
+  }
+
+
+
+
+
+
+  .icon i {
+    cursor: pointer;
+  } 
